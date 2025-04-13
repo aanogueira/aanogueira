@@ -1,9 +1,27 @@
-<p align="left">Hello World!!</p>
+# Howdy :wave:
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aanogueira&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=rose_pine&locale=en&hide_border=true&order=1" height="225" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=aanogueira&locale=en&mode=daily&theme=rose_pine&hide_border=true&border_radius=0&order=3" height="250" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=aanogueira&theme=oldie&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
-</div>
+[![Website](https://img.shields.io/badge/-techquests.dev-121416?style=flat&logo=Google-Chrome&logoColor=white)](https://techquests.dev)
+[![Mail](https://img.shields.io/badge/-aanogueira-121416?logo=protonmail&logoColor=fff)](mailto:aanogueira@protonmail.com)
+[![X](https://img.shields.io/badge/0xaanogueira-121416?logo=X&logoColor=white)](https://x.com/0xaanogueira)
+[![Linkedin](https://custom-icon-badges.demolab.com/badge/andre--a--nogueira-121416?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/andre-a-nogueira/)
+[![Medium](https://img.shields.io/badge/-aanogueira-121416?logo=medium&logoColor=white)](https://medium.com/@aanogueira)
+[![DevTo](https://img.shields.io/badge/-aanogueira-121416?logo=devdotto&logoColor=white)](https://dev.to/aanogueira)
 
-###
+Hey, I’m Andre Nogueira — a Site Reliability Engineer by day, a curious tinkerer by night.
+
+My GitHub is a bit of everything: side quests, experiments, contributions, and maybe the occasional over-engineered dotfiles setup. I like to build things that are fast, reliable, and a little nerdy. If you vibe with `:wq`, CLI tools, or random systems blog posts - we’ll get along just fine.
+
+> _Still figuring it out, but writing it down along the way._
+
+- :brain: Mainly using - Go / Rust / TypeScript / Python - or whatever gets the job done    
+- :hammer_and_wrench: [macOS](https://apple.com/macos/macos-sequoia/), [Pop!_OS](https://system76.com/pop/), [Ghostty](https://ghostty.org/), [tmux](https://github.com/tmux/tmux/wiki), [neovim](https://neovim.io/), [yadm](https://github.com/TheLocehiliosan/yadm)
+- :seedling: Currently building stuff at [Mollie](https://mollie.com)
+- :thought_balloon: Thoughts? Share some at [Discussions](https://github.com/aanogueira/aanogueira/discussions/new/choose)
+- :star: [Starred Projects](AWESOME-STARS.md)
+- :closed_lock_with_key: [`A0A90F4231D8B028`](https://github.com/aanogueira.gpg)
+
+---
+
+## Support my caffeine-fueled experiments :coffee:
+
+<a href="https://www.buymeacoffee.com/aanogueira"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="aanogueira" /></a>
