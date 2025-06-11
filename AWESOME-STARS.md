@@ -105,6 +105,7 @@
 
 ## Python 
 
+- [wangwenju269/work_space](https://github.com/wangwenju269/work_space) - NLP 项目记录档案
 - [zamalali/DeepGit](https://github.com/zamalali/DeepGit) - Deep research agent to help you find the best GitHub repositories 🕵️!
 - [yadm-dev/yadm](https://github.com/yadm-dev/yadm) - Yet Another Dotfiles Manager
 - [SesameAILabs/csm](https://github.com/SesameAILabs/csm) - A Conversational Speech Generation Model
