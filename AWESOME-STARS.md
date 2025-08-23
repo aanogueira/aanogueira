@@ -102,6 +102,7 @@
 
 ## JavaScript 
 
+- [pyllyukko/user.js](https://github.com/pyllyukko/user.js) - user.js -- Firefox configuration hardening
 - [bobbylej/doit](https://github.com/bobbylej/doit) - Application to control Jira thru Slack with natural language
 - [openchatai/OpenChat](https://github.com/openchatai/OpenChat) - LLMs custom-chatbots console ⚡
 - [hound-search/hound](https://github.com/hound-search/hound) - Lightning fast code searching made easy
