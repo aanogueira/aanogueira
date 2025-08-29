@@ -16,6 +16,7 @@
 - [Haskell](#haskell)
 - [Java](#java)
 - [JavaScript](#javascript)
+- [Lua](#lua)
 - [Markdown](#markdown)
 - [Others](#others)
 - [PHP](#php)
@@ -110,6 +111,10 @@
 - [be5invis/Iosevka](https://github.com/be5invis/Iosevka) - Versatile typeface for code, from code.
 - [Foundry376/Mailspring](https://github.com/Foundry376/Mailspring) - :love_letter: A beautiful, fast and fully open source mail client for Mac, Windows and Linux.
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - web development for the rest of us
+
+## Lua 
+
+- [MagicDuck/grug-far.nvim](https://github.com/MagicDuck/grug-far.nvim) - Find And Replace plugin for neovim
 
 ## Markdown 
 
