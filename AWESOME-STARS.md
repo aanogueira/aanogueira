@@ -35,6 +35,7 @@
 
 ## C 
 
+- [bahamas10/sshp](https://github.com/bahamas10/sshp) - Parallel SSH Executor
 - [eradman/entr](https://github.com/eradman/entr) - Run arbitrary commands when files change
 - [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color) - The world's most popular non-default computer lockscreen.
 - [vanhauser-thc/thc-hydra](https://github.com/vanhauser-thc/thc-hydra) - hydra
