@@ -67,6 +67,7 @@
 
 ## Go 
 
+- [antonmedv/howto](https://github.com/antonmedv/howto) - A terminal helper for querying LLM
 - [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer & processor
 - [sourcegraph/scip](https://github.com/sourcegraph/scip) - SCIP Code Intelligence Protocol
 - [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
