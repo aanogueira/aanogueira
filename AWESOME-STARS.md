@@ -189,7 +189,6 @@
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
 - [aboutcode-org/scancode-toolkit](https://github.com/aboutcode-org/scancode-toolkit) - :mag: ScanCode detects licenses, copyrights, dependencies by "scanning code" ... to discover and inventory open source and third-party packages used in your code. Sponsored by NLnet, the Google Summer
-- [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need.
 - [jina-ai/serve](https://github.com/jina-ai/serve) - ☁️ Build multimodal AI applications with cloud-native stack
 - [bigb0sss/RedTeam-OffensiveSecurity](https://github.com/bigb0sss/RedTeam-OffensiveSecurity) - Tools & Interesting Things for RedTeam Ops
 - [controlplaneio/simulator](https://github.com/controlplaneio/simulator) - Kubernetes Security Training Platform - focusing on security mitigation
@@ -200,6 +199,7 @@
 
 ## Rust 
 
+- [alexpasmantier/television](https://github.com/alexpasmantier/television) - A very fast, portable and hackable fuzzy finder.
 - [datadog-labs/pup](https://github.com/datadog-labs/pup) - Give your AI agent a Pup — a CLI companion with 200+ commands across 33+ Datadog products.
 - [stalwartlabs/stalwart](https://github.com/stalwartlabs/stalwart) - All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).
 - [YS-L/csvlens](https://github.com/YS-L/csvlens) - Command line csv viewer
@@ -243,6 +243,7 @@
 - [better-auth/better-auth](https://github.com/better-auth/better-auth) - The most comprehensive authentication framework for TypeScript
 - [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
 - [red-axe/am-editor](https://github.com/red-axe/am-editor) - A rich text editor that supports collaborative editing and allows for the free use of front-end common libraries such as React and Vue to extend and define plugins.
+- [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need.
 - [vuepress-theme-hope/vuepress-theme-hope](https://github.com/vuepress-theme-hope/vuepress-theme-hope) - A vuepress theme with tons of features✨
 
 ## Vue 
