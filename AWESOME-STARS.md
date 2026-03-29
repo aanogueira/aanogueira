@@ -69,6 +69,7 @@
 
 ## Go 
 
+- [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) - Fully autonomous AI Agents system capable of performing complex penetration testing tasks
 - [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
 - [go-webauthn/webauthn](https://github.com/go-webauthn/webauthn) - FIDO2 Conformant WebAuthn and Passkey backend library for golang
 - [antonmedv/howto](https://github.com/antonmedv/howto) - A terminal helper for querying LLM
@@ -146,7 +147,6 @@
 
 ## Others 
 
-- [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) - Fully autonomous AI Agents system capable of performing complex penetration testing tasks
 - [rohitg00/devops-interview-questions](https://github.com/rohitg00/devops-interview-questions) - Creating this repository as a central hub for all DevOps interview questions to help you land your next job.
 - [cloudcommunity/Cloud-Free-Tier-Comparison](https://github.com/cloudcommunity/Cloud-Free-Tier-Comparison) - Comparing the free tier offers of the major cloud providers like AWS, Azure, GCP, Oracle etc.
 - [kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) - 😱 Falsehoods Programmers Believe in
@@ -189,6 +189,7 @@
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
 - [aboutcode-org/scancode-toolkit](https://github.com/aboutcode-org/scancode-toolkit) - :mag: ScanCode detects licenses, copyrights, dependencies by "scanning code" ... to discover and inventory open source and third-party packages used in your code. Sponsored by NLnet, the Google Summer
+- [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need.
 - [jina-ai/serve](https://github.com/jina-ai/serve) - ☁️ Build multimodal AI applications with cloud-native stack
 - [bigb0sss/RedTeam-OffensiveSecurity](https://github.com/bigb0sss/RedTeam-OffensiveSecurity) - Tools & Interesting Things for RedTeam Ops
 - [controlplaneio/simulator](https://github.com/controlplaneio/simulator) - Kubernetes Security Training Platform - focusing on security mitigation
@@ -199,6 +200,7 @@
 
 ## Rust 
 
+- [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) - Hundreds of models & providers. One command to find what runs on your hardware.
 - [alexpasmantier/television](https://github.com/alexpasmantier/television) - A very fast, portable and hackable fuzzy finder.
 - [datadog-labs/pup](https://github.com/datadog-labs/pup) - Give your AI agent a Pup — a CLI companion with 200+ commands across 33+ Datadog products.
 - [stalwartlabs/stalwart](https://github.com/stalwartlabs/stalwart) - All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).
@@ -244,7 +246,6 @@
 - [better-auth/better-auth](https://github.com/better-auth/better-auth) - The most comprehensive authentication framework for TypeScript
 - [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
 - [red-axe/am-editor](https://github.com/red-axe/am-editor) - A rich text editor that supports collaborative editing and allows for the free use of front-end common libraries such as React and Vue to extend and define plugins.
-- [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need.
 - [vuepress-theme-hope/vuepress-theme-hope](https://github.com/vuepress-theme-hope/vuepress-theme-hope) - A vuepress theme with tons of features✨
 
 ## Vue 
