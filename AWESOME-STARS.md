@@ -196,6 +196,7 @@
 
 ## Rust 
 
+- [instructkr/claw-code](https://github.com/instructkr/claw-code) - The fastest repo in history to surpass 100K stars ⭐. Better Harness Tools that make real things done. Built in Rust using oh-my-codex.
 - [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) - Hundreds of models & providers. One command to find what runs on your hardware.
 - [alexpasmantier/television](https://github.com/alexpasmantier/television) - A very fast, portable and hackable fuzzy finder.
 - [datadog-labs/pup](https://github.com/datadog-labs/pup) - Give your AI agent a Pup — a CLI companion with 200+ commands across 33+ Datadog products.
