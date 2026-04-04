@@ -7,15 +7,14 @@
 [![Medium](https://img.shields.io/badge/-aanogueira-121416?logo=medium&logoColor=white)](https://medium.com/@aanogueira)
 [![DevTo](https://img.shields.io/badge/-aanogueira-121416?logo=devdotto&logoColor=white)](https://dev.to/aanogueira)
 
-Hey, I’m Andre Nogueira — a Site Reliability Engineer by day, a curious tinkerer by night.
+Platform engineer building internal developer platforms at scale. I write about infrastructure and tooling at [TechQuests.dev](https://techquests.dev).
 
-My GitHub is a bit of everything: side quests, experiments, contributions, and maybe the occasional over-engineered dotfiles setup. I like to build things that are fast, reliable, and a little nerdy. If you vibe with `:wq`, CLI tools, or random systems blog posts - we’ll get along just fine.
+My GitHub is a mix of side quests, upstream contributions, and the occasional over-engineered dotfiles. If you vibe with `:wq`, CLI tools, or systems blog posts — we’ll get along just fine.
 
 > _Still figuring it out, but writing it down along the way._
 
-- :brain: Mainly using - Go / Rust / TypeScript / Python - or whatever gets the job done    
-- :hammer_and_wrench: [macOS](https://apple.com/macos/macos-sequoia/), [Pop!_OS](https://system76.com/pop/), [Ghostty](https://ghostty.org/), [tmux](https://github.com/tmux/tmux/wiki), [neovim](https://neovim.io/), [yadm](https://github.com/TheLocehiliosan/yadm)
-- :seedling: Currently building stuff at [Mollie](https://mollie.com)
+- :brain: Go / Rust / TypeScript / Python — or whatever gets the job done
+- :hammer_and_wrench: [Ghostty](https://ghostty.org/), [tmux](https://github.com/tmux/tmux/wiki), [neovim](https://neovim.io/)
 - :thought_balloon: Thoughts? Share some at [Discussions](https://github.com/aanogueira/aanogueira/discussions/new/choose)
 - :star: [Starred Projects](AWESOME-STARS.md)
 - :closed_lock_with_key: [`A0A90F4231D8B028`](https://github.com/aanogueira.gpg)
