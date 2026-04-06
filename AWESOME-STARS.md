@@ -228,6 +228,7 @@
 
 ## Swift 
 
+- [Arthur-Ficial/apfel](https://github.com/Arthur-Ficial/apfel) - Apple Intelligence from the command line. On-device LLM via FoundationModels framework. No API keys, no cloud, no dependencies.
 - [utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS and macOS
 - [alienator88/Pearcleaner](https://github.com/alienator88/Pearcleaner) - A free, source-available and fair-code licensed mac app cleaner
 
