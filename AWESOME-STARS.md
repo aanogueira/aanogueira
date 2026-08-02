@@ -79,7 +79,7 @@
 - [techquestsdev/code-search](https://github.com/techquestsdev/code-search) - Self-hosted code search and bulk operations across all your repositories. Powered by Zoekt.
 - [FootprintAI/Containarium](https://github.com/FootprintAI/Containarium) - Open-source agent runtime — SSH-native isolation, eBPF egress policy, Kubernetes + LXC backends, GPU passthrough, MCP-native CLI
 - [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) - Fully autonomous AI Agents system capable of performing complex penetration testing tasks
-- [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
+- [d2lang/d2](https://github.com/d2lang/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
 - [go-webauthn/webauthn](https://github.com/go-webauthn/webauthn) - FIDO2 Conformant WebAuthn and Passkey backend library for golang
 - [antonmedv/howto](https://github.com/antonmedv/howto) - A terminal helper for querying LLM
 - [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer & processor
