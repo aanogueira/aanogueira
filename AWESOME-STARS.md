@@ -70,6 +70,7 @@
 
 ## Go 
 
+- [jetify-com/devbox](https://github.com/jetify-com/devbox) - Instant, easy, and predictable development environments
 - [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
 - [techquestsdev/howto](https://github.com/techquestsdev/howto) - AI-powered CLI that turns natural language into suggested shell commands (OpenAI, Claude, Gemini, DeepSeek, Copilot).
 - [techquestsdev/git-context](https://github.com/techquestsdev/git-context) - A powerful CLI tool for managing multiple Git configuration profiles
