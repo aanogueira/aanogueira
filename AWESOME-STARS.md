@@ -161,7 +161,7 @@
 
 - [Rishabh-creator601/Books](https://github.com/Rishabh-creator601/Books) - Books / PDFS / EPUBS for different fields of programming  . READ GROW AND ENJOY 😊😊😊😊
 - [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) - A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.
-- [QwenLM/Qwen3.6](https://github.com/QwenLM/Qwen3.6) - Qwen3.6 is the large language model series developed by Qwen team, Alibaba Group.
+- [QwenLM/Qwen3.8](https://github.com/QwenLM/Qwen3.8) - Qwen3.8 is the large language model series developed by Qwen team, Alibaba Group.
 - [rohitg00/devops-interview-questions](https://github.com/rohitg00/devops-interview-questions) - Creating this repository as a central hub for all DevOps interview questions to help you land your next job.
 - [letta-ai/letta](https://github.com/letta-ai/letta) - Platform for stateful agents: AI with advanced memory that can learn and self-improve over time.
 - [kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) - 😱 Falsehoods Programmers Believe in
