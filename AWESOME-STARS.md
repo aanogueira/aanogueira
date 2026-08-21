@@ -70,6 +70,7 @@
 
 ## Go 
 
+- [rdegges/ipify-api](https://github.com/rdegges/ipify-api) - A public IP API service.
 - [jetify-com/devbox](https://github.com/jetify-com/devbox) - Instant, easy, and predictable development environments
 - [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
 - [techquestsdev/howto](https://github.com/techquestsdev/howto) - AI-powered CLI that turns natural language into suggested shell commands (OpenAI, Claude, Gemini, DeepSeek, Copilot).
