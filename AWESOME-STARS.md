@@ -51,7 +51,7 @@
 ## C++ 
 
 - [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop - native, fast, extensible
-- [ttalvitie/browservice](https://github.com/ttalvitie/browservice) - Browservice: Browse the modern web on historical browsers
+- [ttalvitie/browservice](https://github.com/ttalvitie/browservice) - [UNMAINTAINED] Browservice: Browse the modern web on historical browsers
 - [wazuh/wazuh](https://github.com/wazuh/wazuh) - Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.
 - [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
 - [pixie-io/pixie](https://github.com/pixie-io/pixie) - Instant Kubernetes-Native Application Observability
