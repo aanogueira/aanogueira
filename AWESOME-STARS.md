@@ -162,6 +162,7 @@
 
 ## Others 
 
+- [dotdc/grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes) - A set of modern Grafana dashboards for Kubernetes.
 - [Rishabh-creator601/Books](https://github.com/Rishabh-creator601/Books) - Books / PDFS / EPUBS for different fields of programming  . READ GROW AND ENJOY 😊😊😊😊
 - [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) - A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.
 - [QwenLM/Qwen3.8](https://github.com/QwenLM/Qwen3.8) - Qwen3.8 is the large language model series developed by Qwen team, Alibaba Group.
@@ -191,6 +192,7 @@
 
 ## Python 
 
+- [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) - VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
 - [oraios/serena](https://github.com/oraios/serena) - A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities  - the IDE for your agent
 - [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) - Hindsight: Agent Memory That Learns
 - [getzep/graphiti](https://github.com/getzep/graphiti) - Build Real-Time Knowledge Graphs for AI Agents
@@ -276,6 +278,7 @@
 
 ## TypeScript 
 
+- [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Write HTML. Render video. Built for agents.
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [earendil-works/pi](https://github.com/earendil-works/pi) - AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
 - [modem-dev/hunk](https://github.com/modem-dev/hunk) - Review-first terminal diff viewer for agentic coders
