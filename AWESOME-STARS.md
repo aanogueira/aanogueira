@@ -231,6 +231,7 @@
 
 ## Rust 
 
+- [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
